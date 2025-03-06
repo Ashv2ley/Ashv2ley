@@ -17,8 +17,11 @@ Hi! I'm a Software Engineering student at UC Irvine, and I'm really passionate a
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+As a full-stack developer with a passion for fintech, I'm excited about using my skills to build innovative solutions that can transform the financial landscape. With a strong foundation in both front-end and back-end development, I aim to create platforms that are not only functional but also user-friendly and accessible.
 
-Hi! I'm a Software Engineering student at UC Irvine, and I'm really passionate about creating impactful technology that improves people's lives. I enjoy solving real-world problems through code, with a focus on building applications that are both user-friendly and highly functional. I’m always exploring new ways to collaborate, learn, and contribute to meaningful technology. Feel free to reach out if you want to connect or collaborate!
+I focus on creating scalable and secure applications that can empower individuals and businesses. Whether it's simplifying access to financial tools, improving user experience, or optimizing systems for greater efficiency, I am committed to using my skills to make a real impact in the world.
+
+I'm always looking for opportunities to learn and collaborate with others who share my vision. Let's connect and build something amazing!
 
 ## Socials 🌐
 - [LinkedIn](https://www.linkedin.com/in/ashley-anyanwu/)
