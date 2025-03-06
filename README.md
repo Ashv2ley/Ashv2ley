@@ -8,11 +8,11 @@ I focus on creating scalable and secure applications that can empower individual
 I'm always looking for opportunities to learn and collaborate with others who share my vision. Let's connect and build something amazing!
 
 ## Socials 🌐
-- [LinkedIn](https://www.linkedin.com/in/ashley-anyanwu/)
-- [Portfolio](https://ashleyanyanwu.com/)
+![image]({https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white}(https://www.linkedin.com/in/ashley-anyanwu/))
+![image]({https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white}(https://ashleyanyanwu.com/))
 
 ## Skills 🔋
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,cpp,figma,firebase,java,nextjsnodejs,react,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,cpp,figma,firebase,java,nextjs,nodejs,react,)](https://skillicons.dev)
 
 ## Tech Stack 💻
-![image]({![image]({https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white}) ![image]({[https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)}) }) 
+![image]({https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white}) ![image]({https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white}) ![image]({https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}) ![image]({https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white}) ![image]({https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E}) ![image]({https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white})
