@@ -8,8 +8,8 @@ I focus on creating scalable and secure applications that can empower individual
 I'm always looking for opportunities to learn and collaborate with others who share my vision. Let's connect and build something amazing!
 
 ## Socials 🌐
-![image]({https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white}(https://www.linkedin.com/in/ashley-anyanwu/))
-![image]({https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white}(https://ashleyanyanwu.com/))
+[![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.linkedin.com/in/ashley-anyanwu/)
+[![image](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://ashleyanyanwu.com/)
 
 ## Skills 🔋
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,cpp,figma,firebase,java,nextjs,nodejs,react,)](https://skillicons.dev)
